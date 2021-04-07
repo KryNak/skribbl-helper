@@ -42,3 +42,4 @@ buildNumber.properties
 # Maven
 log/
 target/
+out/
